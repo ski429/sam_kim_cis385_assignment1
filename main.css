@@ -23,5 +23,10 @@ div p:hover {
     color: coral;
 }
 
+@media screen and (max-width: 600px) {
+    #my-contact-box {
+        width: 80%;
+    }
 
+}
 

@@ -2,6 +2,10 @@
     color: darkcyan;
 }
 
+#my-contact-box {
+    width: 50%;
+}
+
 .my-center {
     display: flex;
     flex-direction: column;
@@ -18,5 +22,6 @@ img {
 div p:hover {
     color: coral;
 }
+
 
 
